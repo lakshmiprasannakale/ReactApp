@@ -1,0 +1,11 @@
+.ipl{
+     box-sizing:border-box;
+   
+    color: brown;
+    width: 300px;
+    margin: 30px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    display:flex;
+   
+}
